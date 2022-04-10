@@ -1,0 +1,9 @@
+Dependencies and Setup
+import pandas as pd
+school_series = pd.Series(high_schools)
+
+# list of high schools
+high_schoold = [["Huang High School",  "Figueroa High School", "Shelton High School", 
+"Hernandez High School","Griffin High School","Wilson High School", "Cabrera High School", 
+"Bailey High School", "Holden High School", "Pena High School", 
+"Wright High School","Rodriguez High School", "Johnson High School", "Ford High School", "Thomas High School"]]
